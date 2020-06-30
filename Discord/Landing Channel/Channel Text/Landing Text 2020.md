@@ -1,3 +1,11 @@
+**DO NOT COPY STRAIGHT FROM GITHUB TO DISCORD**
+
+Use this link to view the raw document: <https://raw.githubusercontent.com/ScruffyKip/tpp-community-docs/master/Discord/Landing%20Channel/Channel%20Text/Landing%20Text%202020.md>
+
+Each image and section of text must be posted as its own message as it makes it easy to expand later.
+
+----- 
+
 ### IMAGE: 1 Discord Header.png ###
 
 **Welcome to the Twitch Plays Pokémon Discord Server!**
