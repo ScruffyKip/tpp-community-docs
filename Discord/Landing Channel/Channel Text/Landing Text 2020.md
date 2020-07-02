@@ -87,4 +87,14 @@ Click on the buttons below to sign up to offline pings from #news about TPP!
 
 :ballot_box: **@Stream Poll Alerts** - Get notified when a new opinion poll for the TPP Stream is announced in #dev-polls.  Only @Stream Staff can use them.
 
+### IMAGE: 7 Pronouns.png ###
+
+Click on the buttons below to select pronoun roles.
+
+:female_sign: she/her
+:male_sign: he/him
+:eight_spoked_asterisk: they/them
+:grey_question: other pronoun
+:rainbow_flag: any pronoun
+
 ### IMAGE: 6 Bottom.png ###
