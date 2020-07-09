@@ -6,7 +6,7 @@ Each image and section of text must be posted as its own message as it makes it 
 
 ----- 
 
-### IMAGE: 1 Discord Header.png ###
+### IMAGE: 0 Discord Header.png ###
 
 **Welcome to the Twitch Plays Pokémon Discord Server!**
 
@@ -63,7 +63,8 @@ This Discord server has a warning/strike system in place which the @Server Staff
 **Official TPP Channels**  
 These channels are used by the TPP stream staff and are moderated by @Stream Chat Moderator.  
 #public-dev: Stream-Public development chat.  
-#dev-polls: Public votes on changes to the stream.  
+#dev-polls: Public votes on changes to the stream.
+#pbr-commentary: Notifications for PBR Commentary events.  
 
 **Resources**  
 #starmieboard: TPP Discord Hall of Fame.  
@@ -87,7 +88,9 @@ Click on the buttons below to sign up to offline pings from #news about TPP!
 
 :ballot_box: **@Stream Poll Alerts** - Get notified when a new opinion poll for the TPP Stream is announced in #dev-polls.  Only @Stream Staff can use them.
 
-### IMAGE: 7 Pronouns.png ###
+:speaking_head: **@Commentary Alerts** - Get notified when PBR Commentary is live on stream. Alerts are automated from a calendar controlled by @Chaos_lord2#1215.
+
+### IMAGE: 6 Pronouns.png ###
 
 Click on the buttons below to select pronoun roles.
 
@@ -97,4 +100,4 @@ Click on the buttons below to select pronoun roles.
 :grey_question: other pronoun
 :rainbow_flag: any pronoun
 
-### IMAGE: 6 Bottom.png ###
+### IMAGE: 7 Bottom.png ###
