@@ -27,9 +27,12 @@ Don't group troll, brigade, raid, or witchhunt the stream, subreddit, other user
 :five: **Don't advertise your stream or Discord server** until you are active in the community. 
 Simply joining and advertising is not welcomed.
 
+:six: **Refrain from discussing stream disputes.**  
+User bans, timeouts, reports, and the like should be privately brought to a @Stream Chat Moderator. Extended discussion of these matters in a public setting may result in action being taken towards the users participating in it.
+
 Additionally, please keep within the boundaries of the **Discord Partnership Code of Conduct**.  As a partnered server, we are expected to moderate to this standard.  Check out the full document here: <https://support.discordapp.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct>
 
-This Discord server has a warning/strike system in place which the @Server Staff  enforce. You can read about this system, as well as other policies, here: <https://bit.ly/3gd4UoM>
+This Discord server has a warning/strike system in place which the @Server Staff enforce. You can read about this system, as well as other policies, here: <https://bit.ly/3gd4UoM>
 
 ### IMAGE: 2 Roles.png ###
 
