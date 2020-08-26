@@ -19,7 +19,7 @@ Limit profanity, keep to the channel topic, spoiler tag appropriately, and show 
 Be mindful of the current discussion when deciding to post something. Put large blocks of text in pastebins and excessive images in imgur albums, or throw them in #bots.
 
 :three: **No porn.**  
-Nothing explicitly sexual. Don't make others uncomfortable. Report anything that makes you uncomfortable either by DMing @Server Staff or by using the Mailbox.
+Nothing explicitly sexual. Don't make others uncomfortable. Report anything that makes you uncomfortable either by DMing @Server Staff or by using the Mailbox. Use SFW link alternatives when possible.
 
 :four: **Don’t mob.**  
 Don't group troll, brigade, raid, or witchhunt the stream, subreddit, other users, or other communities.
