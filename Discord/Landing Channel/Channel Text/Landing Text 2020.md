@@ -19,7 +19,7 @@ Limit profanity, keep to the channel topic, spoiler tag appropriately, and show 
 Be mindful of the current discussion when deciding to post something. Put large blocks of text in pastebins and excessive images in imgur albums, or throw them in #bots.
 
 :three: **No porn.**  
-Nothing explicitly sexual. Don't make others uncomfortable. Report anything that makes you uncomfortable either by DMing @Server Staff or by using the Mailbox. Use SFW link alternatives when possible.
+Nothing explicitly sexual. Don't make others uncomfortable. Report anything that makes you uncomfortable either by DMing <@549006512685580290> or by using the Mailbox. Use SFW link alternatives when possible.
 
 :four: **Don’t mob.**  
 Don't group troll, brigade, raid, or witchhunt the stream, subreddit, other users, or other communities.
@@ -28,50 +28,52 @@ Don't group troll, brigade, raid, or witchhunt the stream, subreddit, other user
 Simply joining and advertising is not welcomed.
 
 :six: **Refrain from discussing stream disputes.**  
-User bans, timeouts, reports, and the like should be privately brought to a @Stream Chat Moderator. Extended discussion of these matters in a public setting may result in action being taken towards the users participating in it.
+User bans, timeouts, reports, and the like should be privately brought to a <@249955775680741376>. Extended discussion of these matters in a public setting may result in action being taken towards the users participating in it.
 
 Additionally, please keep within the boundaries of the **Discord Partnership Code of Conduct**.  As a partnered server, we are expected to moderate to this standard.  Check out the full document here: <https://support.discordapp.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct>
 
-This Discord server has a warning/strike system in place which the @Server Staff enforce. You can read about this system, as well as other policies, here: <https://bit.ly/3gd4UoM>
+This Discord server has a warning/strike system in place which the <@549006512685580290> enforce. You can read about this system, as well as other policies, here: <https://bit.ly/3gd4UoM>
 
 ### IMAGE: 2 Roles.png ###
 
 **Server Staff Roles**  
-@Moderator - Manages everything on the Discord server.  
-@Deputy - Manages chatrooms but does not administer the server.  
+<@148086803532873729> - Manages everything on the Discord server.  
+<@480740094580621313> - Manages chatrooms but does not administer the server.  
 
 **Stream Staff Roles**  
-@Stream Operator - Runs the stream. Ping them if you're reporting a stream issue.  
-@Stream Chat Moderator - Manages stream chat and the dev channels.  
-@Stream Developer - Develops for the stream.  
+<@580125442175139883> - Runs the stream. Ping them if you're reporting a stream issue.  
+<@249955775680741376> - Manages stream chat and the dev channels.  
+<@148545131149131776> - Develops for the stream.  
 
 **Community Roles**  
-@Subreddit Moderator - Moderates the TPP subreddit.  
-@Live Updater - Provides live text coverage for selected runs.  
-@Announcer - Can post in #news.  
-@Alumni Live Updater - Part of the old Live Updater team.  
-@Nitro Booster - Boosts the server with Discord Nitro.  
+<@148080509216489472> - Moderates the TPP subreddit.  
+<@677023858150342666> - Provides live text coverage for selected runs.  
+<@149634875387936769> - Can post in <#150179304896987136>.  
+<@148087914360864768> - Part of the old Live Updater team.  
+<@581252645285789707> - Boosts the server with Discord Nitro.  
 
 ### IMAGE: 3 Channel Directory.png ###
 
-#landing: All you need to know about the server.  
-#news: TPP & community updates and announcements.  
+<#148079346685313034>: All you need to know about the server.  
+<#150179304896987136>: TPP & community updates and announcements.  
 
-#isle-of-armor: What’s going on in-stream. _Channel name will change depending on what’s happening._  
-#tpp: Anything else TPP related.  
-#gaming: Non-TPP related video game discussion.  
-#general: Anything else.  
-#bots: Bots & spam channel.  
+<#148167607403544576>: Any topic not covered below.
+<#434506695230881802>: Past and general TPP-related discussion.
+<#148080089488162817>: Current on-stream TPP discussion.
+<#516590274323939329>: Video games not covered by a special channel.
+<#751249480862400618>: Non-furry original (and shared) content, including Pokemon art.
+<#751249194030858350>: Furry discussions and artwork.
+<#151257324869255168>: Bot usage and miscellaneous spam.
 
 **Official TPP Channels**  
-These channels are used by the TPP stream staff and are moderated by @Stream Chat Moderator.  
-#public-dev: Stream-Public development chat.  
-#dev-polls: Public votes on changes to the stream.
-#pbr-commentary: Notifications for PBR Commentary events.  
+These channels are used by the TPP stream staff and are moderated by <@249955775680741376>.  
+<#436252785873387540>: Stream-Public development chat.  
+<#557984995030073364>: Public votes on changes to the stream.
+<#730513001614147775>: Notifications for PBR Commentary events.  
 
 **Resources**  
-#starmieboard: TPP Discord Hall of Fame.  
-#stream-feed: Live text feed of the TPP stream.  
+<#363798881227636757>: TPP Discord Hall of Fame.  
+<#612691321261654035>: Live text feed of the TPP stream.  
 
 We may create additional temporary channels depending on need/demand.  
 
@@ -85,13 +87,13 @@ We may create additional temporary channels depending on need/demand.
 
 Click on the buttons below to sign up to offline pings from #news about TPP!
 
-:video_game: **@Stream Events** - Anything critical happening on-stream right now, such as a new game starting, Champion Battles, Pokédex completions, etc. Only @Server Staff, @Announcer and @Stream Staff can use them. 
+:video_game: **<@413003203274080267>** - Anything critical happening on-stream right now, such as a new game starting, Champion Battles, Pokédex completions, etc. Only <@549006512685580290>, <@149634875387936769> and <@669107388401451028> can use them. 
 
-:heartpulse: **@Community Events** - Anime Nights, TPP Game Nights and other streams, competition and contest closing times, one-time collaborations and operations. Only @Server Staff  and @Announcer can use them.
+:heartpulse: **<@413003223818043394>** - Anime Nights, TPP Game Nights and other streams, competition and contest closing times, one-time collaborations and operations. Only <@549006512685580290>  and <@149634875387936769> can use them.
 
-:ballot_box: **@Stream Poll Alerts** - Get notified when a new opinion poll for the TPP Stream is announced in #dev-polls.  Only @Stream Staff can use them.
+:ballot_box: **<@582675022330724363>** - Get notified when a new opinion poll for the TPP Stream is announced in #dev-polls.  Only <@669107388401451028> can use them.
 
-:speaking_head: **@Commentary Alerts** - Get notified when PBR Commentary is live on stream. Alerts are automated from a calendar controlled by @Chaos_lord2#1215.
+:speaking_head: **<@730525398911156316>** - Get notified when PBR Commentary is live on stream. Alerts are automated from a calendar controlled by <@156411254259449856>.
 
 ### IMAGE: 6 Pronouns.png ###
 
