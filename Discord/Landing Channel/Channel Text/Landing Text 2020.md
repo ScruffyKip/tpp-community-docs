@@ -19,7 +19,7 @@ Limit profanity, keep to the channel topic, spoiler tag appropriately, and show 
 Be mindful of the current discussion when deciding to post something. Put large blocks of text in pastebins and excessive images in imgur albums, or throw them in #bots.
 
 :three: **No porn.**  
-Nothing explicitly sexual. Don't make others uncomfortable. Report anything that makes you uncomfortable either by DMing <@549006512685580290> or by using the Mailbox. Use SFW link alternatives when possible.
+Nothing explicitly sexual. Don't intentionally make others uncomfortable. Report anything that makes you uncomfortable either by DMing <@549006512685580290> or by using the Mailbox. Use SFW link alternatives when possible and direct link when surrounding content is objectionable.
 
 :four: **Don’t mob.**  
 Don't group troll, brigade, raid, or witchhunt the stream, subreddit, other users, or other communities.
@@ -32,7 +32,7 @@ User bans, timeouts, reports, and the like should be privately brought to a <@24
 
 Additionally, please keep within the boundaries of the **Discord Partnership Code of Conduct**.  As a partnered server, we are expected to moderate to this standard.  Check out the full document here: <https://support.discordapp.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct>
 
-This Discord server has a warning/strike system in place which the <@549006512685580290> enforce. You can read about this system, as well as other policies, here: <https://bit.ly/3gd4UoM>
+This Discord server has a warning/strike system in place which the <@549006512685580290> enforce. You can read about this system, as well as other policies, here: <https://bit.ly/3gd4UoM>. For more informational resources from the moderator, such as help hotlines, use `!help commands`.
 
 ### IMAGE: 2 Roles.png ###
 
@@ -79,7 +79,7 @@ We may create additional temporary channels depending on need/demand.
 
 ### IMAGE: 4 Feedback.png ###
 
-**TPP Discord Mailbox** - If you have any comments, suggestions or something to report, use the Mailbox to contact the server moderators anonymously. <https://forms.gle/xk1idSvPcSFxnKdN9>  
+**TPP Discord Mailbox** - If you have any comments, suggestions or something to report, or want to request the collective vote results of moderator actions, use the Mailbox to contact the server moderators anonymously. <https://forms.gle/xk1idSvPcSFxnKdN9>  
 **TPP Subreddit** - <https://reddit.com/r/twitchplayspokemon/>  
 **TPP Stream** - <https://twitch.tv/twitchplayspokemon>  
 
