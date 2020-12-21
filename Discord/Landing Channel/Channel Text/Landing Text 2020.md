@@ -59,6 +59,7 @@ This Discord server has a warning/strike system in place which the <@&5490065126
 
 <#148167607403544576>: Any topic not covered below.
 <#434506695230881802>: Past and general TPP-related discussion.
+<#790382851404070912>: Badge transactions between users.
 <#148080089488162817>: Current on-stream TPP discussion.
 <#516590274323939329>: Video games not covered by a special channel.
 <#751249480862400618>: Non-furry original (and shared) content, including Pokemon art.
